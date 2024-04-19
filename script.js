@@ -105,3 +105,4 @@ const toSlide = number => {
   cards[prev].classList.add("prev");
   cards[next].classList.add("next");
 }
+
